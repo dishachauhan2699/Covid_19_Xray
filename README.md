@@ -13,8 +13,8 @@ I will be working on an open image dataset of Lung x-ray's of people that have t
 • Collecting the images from the open data set for COVID-19 chest Xrays. • Exploration of a machine learning model to distinguish chest X-rays of patients who have tested positive for COVID-19.  
  
 ### Dataset Site: 
--https://github.com/ieee8023/covid-chestxray-dataset
--https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/data# 
+- https://github.com/ieee8023/covid-chestxray-dataset
+- https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/data# 
 
 ### Refrence
 - https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
